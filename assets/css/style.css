@@ -571,7 +571,7 @@ iframe {
 .preload.loaded > * { opacity: 80; }
 
 .preload.loaded {
-  transition-delay: 700ms;
+  transition-delay: 500ms;
   transform: translateY(100%);
 }
 
